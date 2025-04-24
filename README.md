@@ -48,7 +48,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<h3 align="left">🔥   Portifólio :</h3>
+
+###
+
+<p align="left">😑 I don’t have a portfolio just yet, but hey enjoy this cool picture in the meantime!</p>
 
 ###
 <div align="center">

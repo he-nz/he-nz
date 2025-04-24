@@ -36,7 +36,7 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  />
-  <img width="12" />
+  <img width="6" />
 </div>
 
 ###

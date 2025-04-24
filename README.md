@@ -52,6 +52,5 @@
 
 ###
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1ceeae01-afcf-4f64-b470-94c5f6b91f1e)
-"  />
+  <img src="![image](https://github.com/user-attachments/assets/1ceeae01-afcf-4f64-b470-94c5f6b91f1e)"/>
 </div>

@@ -52,5 +52,5 @@
 
 ###
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1ceeae01-afcf-4f64-b470-94c5f6b91f1e)"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIwbmJiejFyczF1b3BkdHZ3ajhtbGx5M2pqOXA2b2t4ODJ5amV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif"/>
 </div>

@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Henrique! A System analysis and development student from Brazil.<br><br>- 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity.<br>- 📚  I'm currently learning Python and programming logic.</p>
+<p align="left">Hi 👋, I'm Henrique! A System analysis & development student from Brazil.<br><br>- 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity.<br>- 📚  I'm currently learning Python and programming logic.</p>
 
 ###
 

@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center">Hello World!👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Henrique! A System analysis & development student from Brazil.<br><br>- 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity.<br>- 📚  I'm currently learning Python and programming logic.</p>
+<p align="left">Hi 👋, I'm Henrique! A System analysis and development student from Brazil.<br><br>- 🔭 I am looking for my first job opportunity. My dream is to one day work with CyberSecurity.<br>- 📚  I'm currently learning Python and programming logic.</p>
 
 ###
 
@@ -48,14 +48,14 @@
 
 ###
 
-
 <h3 align="left">🔥   Portifólio :</h3>
 
 ###
 
-<p align="left">😑 I don’t have a portfolio just yet, but hey enjoy this cool picture in the meantime!</p>
+<p align="left">😑 I don’t have a portfolio just yet, but hey enjoy this cool worm in the meantime!</p>
 
 ###
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIwbmJiejFyczF1b3BkdHZ3ajhtbGx5M2pqOXA2b2t4ODJ5amV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif"/>
-</div>
+
+<img src="https://raw.githubusercontent.com/he-nz/he-nz/output/snake.svg" alt="Snake animation" />
+
+###

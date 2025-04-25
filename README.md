@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=he-nz.he-nz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=he-nz.he-nz&left_color=aliceblue&right_color=aliceblue"  />
 </div>
 
 ###
@@ -56,6 +56,6 @@
 
 ###
 
-![snake gif](https://github.com/he-nz/readme/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/he-nz/he-nz/output/snake.svg" alt="Snake animation" />
 
 ###

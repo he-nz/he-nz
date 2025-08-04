@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">😑 I don’t have a portfolio just yet, but hey enjoy this cool worm in the meantime!</p>
+<p align="left">😑 I don’t have a portfolio yet, but hey enjoy this cool worm in the meantime!</p>
 
 ###
 
